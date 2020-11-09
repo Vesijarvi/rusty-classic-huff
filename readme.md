@@ -1,4 +1,4 @@
-# rusty-classic-huffman-for-img
+# rusty-classic-huff
   
 ## About 
 
