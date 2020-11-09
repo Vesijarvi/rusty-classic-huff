@@ -2,7 +2,7 @@
   
 ## About 
 
-The code is for experimenting huffman compression with some raw data images.  
+The code is for classic huffman compression with some raw data images.  
 (ie. Baboon and lena in raw,halftone and binary color)
 
 ## Usage
